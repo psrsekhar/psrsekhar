@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poluru Sairam Sekhar</h1>
 <h3 align="center">A passionate Fullstack developer and Azure consultant from India</h3>
 
-- 🌱 I’m currently learning **Azure Kubernetes Service**
+- 🌱 I’m currently learning **Cloud Native Solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/psrsekhar](https://github.com/psrsekhar)
 
