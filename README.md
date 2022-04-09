@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/psrsekhar](https://github.com/psrsekhar)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sairam-sekhar-poluru-38008176/](https://www.linkedin.com/in/sairam-sekhar-poluru-38008176/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/psrsekhar/](https://www.linkedin.com/in/psrsekhar/)
 
 - 💬 Ask me about **MS Azure, Java Spring, ASP.NET, Micro Services**
 
 - 📫 How to reach me **sairam.poluru@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sairam-sekhar-poluru-38008176/](https://www.linkedin.com/in/sairam-sekhar-poluru-38008176/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/psrsekhar/](https://www.linkedin.com/in/psrsekhar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
