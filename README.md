@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/psrsekhar/](https://www.linkedin.com/in/psrsekhar/)
 
-- 💬 Ask me about **MS Azure, Java Spring, ASP.NET, Micro Services**
+- 💬 Ask me about **MS Azure, AWS, IoT, Biometrics, Java Spring, ASP.NET Core, Micro Services**
 
 - 📫 How to reach me **sairam.poluru@outlook.com**
 
