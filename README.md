@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poluru Sairam Sekhar</h1>
+<h1 align="center">Hi 👋, I am Sairam Sekhar Poluru</h1>
 <h3 align="center">A passionate Fullstack developer and Cloud Architect from India</h3>
 
 - 🌱 I’m currently learning **Cloud Native Solutions**
